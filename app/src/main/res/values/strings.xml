@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gorkha</string>
+
+<!--    <string name="lbl_dont_have_account">Dont have account?</string>-->
+    <string name="lbl_already_have_account">Already have account?</string>
+    <string name="lbl_signup">Signup</string>
+    <string name="lbl_login">Login</string>
+    <string name="lbl_please_wait">Please Wait...</string>
+    <string name="lbl_welcome">Welcome to Dashboard Screen...</string>
+
+    <string name="error_msg_something_went_wrong">Something Went Wrong</string>
+    <string name="dialog_no_internet_error_msg">No Internet Connection.</string>
+    <string name="lbl_no_data_found">No data found</string>
+
+
+</resources>
